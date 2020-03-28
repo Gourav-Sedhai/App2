@@ -1,4 +1,4 @@
-# App2
+# Application2
 Mapping
 
 import folium
